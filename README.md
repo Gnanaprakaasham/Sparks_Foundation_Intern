@@ -1,3 +1,8 @@
 # Sparks_Foundation_Intern
 
-This particular repository consists of solutions to tasks given in 1 month data science internship from The Sparks Foundaion
+# Task1
+Linkedin
+
+# Task2
+Linear Regresion model is used to create a model to predict the percentage of marks of an student based on the number of
+study hours.
